@@ -14,7 +14,7 @@ import polinema.ac.id.androiduistarter.fragments.fragments.DiscountFragment;
 import polinema.ac.id.androiduistarter.fragments.fragments.FoodFragment;
 import polinema.ac.id.androiduistarter.fragments.fragments.MovieFragment;
 
-public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
+public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
